@@ -27,3 +27,5 @@ or
 ```
 arrest(X).
 ```
+
+PS: watch out there is a "." at the end of each command line.
