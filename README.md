@@ -16,14 +16,14 @@ swipl murder.pl
 ```
 and
 ```
-location_analysis(PersonInBathroom,PersonInDiningRoom,PersonInKitchen,PersonInLivingRoom,PersonInPantry,PersonInStudy)
+location_analysis(PersonInBathroom,PersonInDiningRoom,PersonInKitchen,PersonInLivingRoom,PersonInPantry,PersonInStudy).
 ```
 or
 ```
-weapon_analysis(PersonWithBag,PersonWithFirearm,PersonWithGas,PersonWithKnife,PersonWithPoison,PersonWithRope)
+weapon_analysis(PersonWithBag,PersonWithFirearm,PersonWithGas,PersonWithKnife,PersonWithPoison,PersonWithRope).
 ```
 
 or
 ```
-arrest(X)
+arrest(X).
 ```
