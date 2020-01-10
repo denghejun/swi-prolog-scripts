@@ -10,7 +10,7 @@ export PATH="/Applications/SWI-Prolog.app/Contents/MacOS:$PATH"
 ```
 
 
-###### 2. How to run
+###### 2. How to run (e.g. murder.pl)
 ```
 swipl murder.pl
 ```
