@@ -1,6 +1,6 @@
-#### SWI-Prolog samples
+## SWI-Prolog samples
 
-###### 1. Install SWI-Prolog (Mac)
+##### 1. Install SWI-Prolog (Mac)
 Install link is here: https://www.swi-prolog.org/download/stable
 
 
@@ -10,7 +10,7 @@ export PATH="/Applications/SWI-Prolog.app/Contents/MacOS:$PATH"
 ```
 
 
-###### 2. How to run (e.g. murder.pl)
+##### 2. How to run (e.g. murder.pl)
 ```
 swipl murder.pl
 ```
