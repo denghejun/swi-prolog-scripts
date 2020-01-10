@@ -14,7 +14,7 @@ export PATH="/Applications/SWI-Prolog.app/Contents/MacOS:$PATH"
 ```
 swipl murder.pl
 ```
-and
+and then
 ```
 location_analysis(PersonInBathroom,PersonInDiningRoom,PersonInKitchen,PersonInLivingRoom,PersonInPantry,PersonInStudy).
 ```
