@@ -25,7 +25,7 @@ woman(barbara). woman(christine). woman(yolanda).
 %weapon(bag). weapon(firearm). weapon(gas). weapon(knife). weapon(poison). weapon(rope).
 
 is_criminal_suspect(Name) :- man(Name); woman(Name).
-crimial_location(Where) :- where(Where).
+%crimial_location(Where) :- where(Where).
 unique_location_condition(
  PersonInBathroom,
  PersonInDiningRoom,
