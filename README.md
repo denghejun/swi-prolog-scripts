@@ -1,6 +1,6 @@
 #### SWI-Prolog samples
 
-###### 1. Install SWY-Prolog (Mac)
+###### 1. Install SWI-Prolog (Mac)
 Install link is here: https://www.swi-prolog.org/download/stable
 
 
