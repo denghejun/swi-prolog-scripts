@@ -21,8 +21,8 @@
 
 man(george). man(john). man(robert).
 woman(barbara). woman(christine). woman(yolanda).
-where(bathroom). where(diningroom). where(kitchen). where(livingroom). where(pantry). where(study).
-weapon(bag). weapon(firearm). weapon(gas). weapon(knife). weapon(poison). weapon(rope).
+%where(bathroom). where(diningroom). where(kitchen). where(livingroom). where(pantry). where(study).
+%weapon(bag). weapon(firearm). weapon(gas). weapon(knife). weapon(poison). weapon(rope).
 
 is_criminal_suspect(Name) :- man(Name); woman(Name).
 crimial_location(Where) :- where(Where).
