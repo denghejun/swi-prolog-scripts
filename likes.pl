@@ -4,6 +4,7 @@ color_dark(blue). color_dark(black).
 
 
 
+
 % rule
 output(Who, Color) :- write(Who), write(" likes "), write(Color),nl.
 color(Color) :- color_light(Color); color_dark(Color).
